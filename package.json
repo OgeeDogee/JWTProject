@@ -1,0 +1,17 @@
+{
+  "name": "genverjwt",
+  "version": "1.0.0",
+  "description": "Revalida Project for PLDT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin David L. Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.1.1",
+    "jsonwebtoken": "7.0.1",
+    "uuid": "2.0.2"
+  }
+}
